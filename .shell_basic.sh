@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pkgs_path="
+pkgs_path=""
 
 function require_package() {
 source
