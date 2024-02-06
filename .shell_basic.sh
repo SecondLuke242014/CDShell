@@ -1,5 +1,7 @@
 #!/bin/bash
 
-function cds_it() {
+pkgs_path="
 
+function require_package() {
+source
 }
